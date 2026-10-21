@@ -14,18 +14,32 @@ Backend & Distributed Systems Engineer based in Hyderabad, India 🇮🇳. Passi
 
 ---
 
+### 📜 Certifications
+
+* **AWS Certified Cloud Practitioner**[cite: 2]
+* **Namaste Node.js** – Backend Development[cite: 2]
+* **Namaste React JS** – Frontend Development[cite: 2]
+
+---
+
 ### 🛠️ Featured Projects
 
 * **DevMatch (Tinder for Developers)**
-  * **Tech:** React, Express.js, MongoDB, DynamoDB, WebSockets, Redis, OpenAI API, Docker, AWS (EC2, CloudFront)
-  * Built and deployed microservices across Dockerized multi-AZ EC2 environments, utilizing DynamoDB and CloudFront to scale for 5,000+ active users.
-  * Implemented real-time WebSocket messaging and OpenAI-powered profile recommendations based on tech stack and interests.
-  * Integrated Redis caching (60s TTL, LRU eviction) to slash repeat profile fetch latency by 65%.
+  * **Tech:** React, Express.js, MongoDB, DynamoDB, WebSockets, Redis, OpenAI API, Docker, AWS (EC2, CloudFront)[cite: 2]
+  * Built and deployed microservices across Dockerized multi-AZ EC2 environments, utilizing DynamoDB and CloudFront to scale for 5,000+ active users.[cite: 2]
+  * Implemented real-time WebSocket messaging and OpenAI-powered profile recommendations based on tech stack and interests.[cite: 2]
+  * Integrated Redis caching (60s TTL, LRU eviction) to slash repeat profile fetch latency by 65%.[cite: 2]
 
 * **Multi-Organ Segmentation from CT Scans**
-  * **Tech:** Python, TensorFlow, OpenCV, Vision Transformer (ViT), UNETR
-  * Engineered an advanced CT image segmentation pipeline to categorize abdominal structures, securing a 0.88 Dice score across validation datasets.
-  * Implemented UNETR-2D combining a ViT encoder with a UNET decoder, outperforming standard UNET baselines by 12% in accuracy.
+  * **Tech:** Python, TensorFlow, OpenCV, Vision Transformer (ViT), UNETR[cite: 2]
+  * Engineered an advanced CT image segmentation pipeline to categorize abdominal structures, securing a 0.88 Dice score across validation datasets.[cite: 2]
+  * Implemented UNETR-2D combining a ViT encoder with a UNET decoder, outperforming standard UNET baselines by 12% in accuracy.[cite: 2]
+
+---
+
+### 🏆 Coding Profiles
+
+* **LeetCode:** [eshwar_dev_algo](https://leetcode.com/eshwar_dev_algo) (600+ solved)[cite: 1, 2]
 
 ---
 
@@ -37,5 +51,6 @@ Backend & Distributed Systems Engineer based in Hyderabad, India 🇮🇳. Passi
 ---
 
 ### 📫 Connect with Me
-* **LeetCode:** [eshwar_dev_algo](https://leetcode.com/eshwar_dev_algo) (600+ solved)
-* **Email:** eshwarprasad70685@gmail.com
+
+* **LinkedIn:** [eshwar-gubba](https://linkedin.com/in/eshwar-gubba)[cite: 1]
+* **Email:** [eshwarprasad70685@gmail.com](mailto:eshwarprasad70685@gmail.com)[cite: 1]
